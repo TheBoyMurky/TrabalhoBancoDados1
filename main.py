@@ -1,5 +1,3 @@
-#! /usr/bin/env python3
-
 from pyfiglet import Figlet
 from time import sleep
 # import criar_personagem # Caso dê merda no BD

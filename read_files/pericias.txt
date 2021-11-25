@@ -1,0 +1,6 @@
+Pericias GURPS Lite
+Acrobacia23Essa é a habilidade de realizar proezas ginásticas, cambalhotas, e quedas, etc.
+Briga21Essa é a perícia nada científica de sair no tapa. Faça um teste de Briga para ver se o personagem consegue acertar um soco, ou Briga – 2 para acertar um chute.
+Cavalgar22Essa é a habilidade de cavalgar um tipo específico de montaria. Faça um teste de habilidade quando o personagem tentar montar um animal pela primeira vez, e um novo teste toda vez que acontecer algo que poderia de alguma forma atemorizar ou desafiar a criatura (como, por exemplo, um salto).
+Ocultismo32Esse é o estudo do misterioso e do sobrenatural. Um ocultista é um especialista em rituais antigos, assombrações, misticismo, crenças mágicas primitivas, fenômenos psíquicos, etc.
+Natação41Essa é a perícia usada para nadar (com um objetivo ou simplesmente para ficar boiando em uma emergência) e salvar a vida. Faça um teste contra o maior valor dentre a Natação e a HT do personagem para evitar a Fadiga ou algum ferimento devido às agruras aquáticas.

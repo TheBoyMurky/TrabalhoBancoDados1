@@ -1,0 +1,22 @@
+Criar método para adicionar vantagem/desvantagem/pericias 
+de outros livros GURPS
+
+Vantagens:
+Nome até 20
+pontos gastos 000
+Descrição até 100
+Exemplo Ambidestria005Blah Blah Blah!
+
+Desvantagem:
+Nome até 20
+pontos gastos 000
+Descrição até 100
+Exemplo Mau Humor010Blah Blah Blah Denovo!
+
+Pericias:
+Nome até 20
+atributo[1234] # Força, Destreza, Inteligencia e Vitalidade
+dificuldade [123] # Fácil, Médio e Difícil
+pre-definido (-\d) #No Momento não inclui essa
+Descrição até 100
+Exemplo Acrobacia23Blah Blah Blah Mais uma vez!

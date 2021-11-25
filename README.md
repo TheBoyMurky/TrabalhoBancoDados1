@@ -18,7 +18,8 @@ python3 main.py
 
 ### Caso tiver dúvidas/problemas para rodar o programa entrar em contato:
 Artur Dias
-Email: 
+Email: arturdias1010@hotmail.com
+Telefone/Whatsapp: (54)996630228
 
 Bruno Simon
 Email: brunocrg42@gmail.com
